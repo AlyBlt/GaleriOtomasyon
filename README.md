@@ -15,8 +15,6 @@ Bu C# konsol uygulaması, basit bir **galeri otomasyon sistemini** simüle eder.
 
 ---
 
-## Kurulum
-
 ## Uygulama Menüsü
 
 Uygulama açıldığında karşınıza aşağıdaki gibi bir menü gelir:
@@ -54,10 +52,11 @@ Tüm işlemler kullanıcı dostu bir konsol arayüzüyle gerçekleştirilir. Men
 
 ---
 
-### Reponun klonlanması:
+## Nasıl Çalıştırılır?
 
-```bash
-git clone https://github.com/AlyBlt/GaleriOtomasyon.git
+1. GitHub üzerinden bu repoyu klonlayın.
+  [GitHub Repository Linki](https://github.com/AlyBlt/GaleriOtomasyon.git)
+2. Visual Studio ile projeyi açın.
 
 
 
